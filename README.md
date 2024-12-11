@@ -54,10 +54,10 @@ This analysis provides a data-driven approach to recruitment by decoding emotion
 
 ### Repository Structure
 ```plaintext
-Decoding-Emotions-EDA/
+Emotion-Led-Candidate-Analysis/
 ├── README.md               # Overview and instructions
 ├── notebooks/
-│   └── iby_task_cleaned.ipynb  # Jupyter Notebook
+│   └── EDA.ipynb  # Jupyter Notebook
 ├── docs/
 │   ├── EDA_Report.md       # Report in markdown
 │   └── EDA_Report.pdf      # Original report in PDF
