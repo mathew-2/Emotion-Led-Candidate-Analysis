@@ -3,19 +3,20 @@
 
 ## Introduction
 
-This project evaluates the communication and emotional qualities of candidates through Exploratory Data Analysis (EDA). Using data from interview videos, we aim to extract actionable insights into emotional stability, communication effectiveness, and adaptability. The analysis helps identify key traits that are critical for recruitment decisions.
+**This project evaluates the communication and emotional qualities of candidates through Exploratory Data Analysis (EDA)**. Using data from interview videos, we aim to extract actionable insights into emotional stability, communication effectiveness, and adaptability. The analysis helps identify key traits that are critical for recruitment decisions.
 
 ## Key Analyses and Findings
 
 ### Distribution of Emotions
 
-- **Overall Distribution**: Neutral emotions dominate, covering nearly 50% of the spectrum, followed by fear, sadness, and happiness. Neutrality suggests emotional control and calmness, suitable for high-pressure roles.
-- **Individual Distribution**: Candidates with varied emotions (e.g., fear, sadness, surprise) indicate adaptability and creativity but may require further evaluation for leadership roles.
+- **Overall Distribution**: Neutral emotions dominate, covering nearly 50% of the spectrum, followed by fear, sadness, and happiness. Neutrality suggests **emotional control** and **calmness**, suitable for **high-pressure roles**(e.g. HFT roles,Data Analysis Roles etc..).
+  
+- **Individual Distribution**: Candidates with varied emotions (e.g., fear, sadness, surprise) indicate **adaptability** and **creativity** but may require further evaluation for **leadership roles.**(e.g. Business Analyst roles)
 
 ### Emotional Profiles of Candidates
 
-- Candidates exhibiting a high percentage of neutral emotions demonstrate emotional stability, crucial for leadership or management roles.
-- Positive emotions like happiness suggest enthusiasm and a positive outlook, ideal for collaborative roles such as sales or public relations.
+- Candidates exhibiting a high percentage of neutral emotions demonstrate emotional stability, crucial for **leadership or management roles**.
+- Positive emotions like happiness suggest enthusiasm and a positive outlook, ideal for collaborative roles such as **sales or public relations**.
 
 ### Gaze and Blink Analysis
 
