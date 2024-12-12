@@ -10,25 +10,35 @@
 ### Distribution of Emotions
 
 - **Overall Distribution**: Neutral emotions dominate, covering nearly 50% of the spectrum, followed by fear, sadness, and happiness. Neutrality suggests **emotional control** and **calmness**, suitable for **high-pressure roles**(e.g. HFT roles,Data Analysis Roles etc..).
-  
+![Overall Emotion Distribution](images/bargraph.png)
+
 - **Individual Distribution**: Candidates with varied emotions (e.g., fear, sadness, surprise) indicate **adaptability** and **creativity** but may require further evaluation for **leadership roles.**(e.g. Business Analyst roles)
+![Individual Emotion Distribution](images/Bar_graph_profile_diff_candids.png)
+
 
 ### Emotional Profiles of Candidates
+
+![Spider Plot: Emotional Profiles](images/emotion_profile_1_&_2.png)
 
 - Candidates exhibiting a high percentage of neutral emotions demonstrate emotional stability, crucial for **leadership or management roles**.
 - Positive emotions like happiness suggest enthusiasm and a positive outlook, ideal for collaborative roles such as **sales or public relations**.
 
 ### Gaze and Blink Analysis
+![Gaze and Blink Analysis](images/gaze_And_blink_data.png)
+
 
 - **Gaze Stability**: Indicates focus and attentiveness. Candidates with steady gazes are better suited for detail-oriented roles.
 - **Blink Frequency**: Excessive blinking may indicate stress, while too little suggests unnatural behavior. A moderate rate reflects calmness and engagement.
 
 ### Heatmaps and Correlation Matrices
 
+![Emotion Correlation Heatmap](images/heatmap_emotiono_data.png)
+
 - **Emotion Relationships**:
   - Positive correlations: Anger and disgust show a slight positive relationship.
   - Negative correlations: Neutral emotions negatively correlate with fear and anger, highlighting the ability to handle stress.
 
+![Emotion Correlation Heatmap](images/correlation_plot.png)
 - **Emotion and Communication Overlap**:
   - Confidence positively correlates with conciseness (0.72) and enthusiasm (0.62), indicating strong communication skills.
 
