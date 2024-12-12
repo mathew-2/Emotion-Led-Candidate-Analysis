@@ -52,7 +52,11 @@ Key visualizations include:
 
 ## Conclusion
 
-This analysis provides a data-driven approach to recruitment by decoding emotional and communication traits. The insights gained help align candidates with roles that suit their strengths, ensuring better hiring decisions.
+From the emotional profiles analyzed, we found that candidates with dominant neutral emotions show **strong emotional stability** and **resilience**, making them suitable for high-pressure roles like leadership, business analysis, or data-driven jobs. Positive emotions, like **happiness** and **enthusiasm**, indicate adaptability and teamwork skills, which are ideal for creative and team-based roles like **marketing** or **public relations**.
+
+Candidates with more varied emotions, such as **fear** or **sadness**, showed adaptability but might need further evaluation for roles requiring steady emotional control, like **leadership** or **client-facing positions**. There is also a clear link between **confidence**, **conciseness**, and **enthusiasm**, which highlights the importance of strong communication skills in **leadership** and **high-pressure environment**s.
+
+**While emotions and transcripts alone don’t fully determine a candidate’s suitability, they provide useful insights into how well someone handles tough situations like an interview. This can help guide better decisions in matching candidates to the right roles.**
 
 ---
 
