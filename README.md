@@ -49,12 +49,6 @@ Key visualizations include:
 - Spider plots highlighting individual emotional strengths and weaknesses.
 - Heatmaps showing relationships between emotions and communication traits.
 
-## How to Run
-
-1. Clone the repository.
-2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Open the Jupyter Notebook in the `notebooks/` folder and follow the steps.
-4. Use the provided sample dataset or load your own.
 
 ## Conclusion
 
@@ -71,11 +65,12 @@ Emotion-Led-Candidate-Analysis/
 ├── docs/
 │   ├── EDA_Report.md       # Report in markdown
 │   └── EDA_Report.pdf      # Original report in PDF
-├── data/
-│   └── sample_data.csv      # Placeholder for dataset
 ├── images/
 │   └── visualizations.png  # Saved visualizations
-└── requirements.txt        # Dependencies
+│   └──Bar_graph_profile_diff_candids.png
+│   └──bargraph.png
+│   └──barplot.png
+|    .....
 ```
 
 ## Contact
