@@ -12,7 +12,7 @@
 - **Overall Distribution**: Neutral emotions dominate, covering nearly 50% of the spectrum, followed by fear, sadness, and happiness. Neutrality suggests **emotional control** and **calmness**, suitable for **high-pressure roles**(e.g. HFT roles,Data Analysis Roles etc..).
 ![Overall Emotion Distribution](images/bargraph.png)
 
-- **Individual Distribution**: Candidates with varied emotions (e.g., fear, sadness, surprise) indicate **adaptability** and **creativity** but may require further evaluation for **leadership roles.**(e.g. Business Analyst roles)
+- **Individual Distribution**: Candidates with varied emotions (e.g., fear, sadness, surprise) indicate **adaptability** and **creativity** but may require further evaluation for **leadership roles.**
 ![Individual Emotion Distribution](images/Bar_graph_profile_diff_candids.png)
 
 
